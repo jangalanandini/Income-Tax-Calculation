@@ -1,1 +1,5 @@
 # Income-Tax-Calculation
+The Income tax calculator The Taxation Company is a tool designed to calculate how much income tax you are liable to pay To the Government.The calculator provides an Accurate figure of your income tax liability by taking into account various data such as your income, deductions like Home loan,student loan , etc.Splitting the income into the different parts and depositing into the different accounts
+so that Individual so that they can pay less amount Compared to the whole amount.
+**STUDENT LOAN:**it takes the student loan amount and calculates the deduction amount and returns the final amount.**HOME LOAN :** It takes the original home loan amount and calculates the deduction amount and
+returns the final amount.**PROVIDENT FUND** : In this the actual provident fund amount and calculates the deduction amount and returns the final amount.**LIC POLICY :** In this function actual LIC amount and calculate the deduction amount and return the final amount.**CLUSTERING** : Visualization of data of an individual on dendrogram.**INCOME TAX** : Final tax calculation will be done in this.
